@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/p2/Desktop/C#/Game1/Game1/Content/Images/Entities/Banana.png</File>
+    <File>C:/Users/p2/Desktop/C#/Game1/Game1/Content/Images/Backgrounds/Background.png</File>
+    <File>C:/Users/p2/Desktop/C#/Game1/Game1/Content/Images/Drawables/MerkelClick.jpg</File>
+    <File>C:/Users/p2/Desktop/C#/Game1/Game1/Content/Images/Drawables/MerkelNeutral.jpg</File>
+    <File>C:/Users/p2/Desktop/C#/Game1/Game1/Content/Images/Drawables/MerkelRollOver.jpg</File>
+    <File>C:/Users/p2/Desktop/C#/Game1/Game1/Content/Images/Entities/Independent.ico</File>
+  </SourceFiles>
+</SourceFileCollection>
